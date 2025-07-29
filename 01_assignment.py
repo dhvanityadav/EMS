@@ -1,3 +1,4 @@
+print("Welcome to Employee Management System".center(50, "*"))
 employee = {}
 
 # employee = {101 : {"Name" : "Dhvit", "Age" : 21 , "Department" : "Data Science" , "Salary" : 500000}}
